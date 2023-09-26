@@ -85,7 +85,7 @@ void lomuto_sort(int *array, size_t size, int left, int right)
  * @size: The size of the array.
  *
  * Description: Prints array after two elements swap.
- *              Uses Lomuto scheme 
+ *              Uses Lomuto scheme
  */
 void quick_sort(int *array, size_t size)
 {
